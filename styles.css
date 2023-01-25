@@ -2,8 +2,8 @@
 .row{ background:rgb(41,0,0)}
 
 .container{
-	background-color: pink; 
-	border: solid green 5px;}
+	background-color: rgb(250,190,189); 
+	border: solid  rgb(5,255,6) 5px;}
 
 .row{ height:150px;}
 

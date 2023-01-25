@@ -1,8 +1,41 @@
+
+.row{ background:rgb(41,0,0)}
+
 .container{
-	background-color: black; 
-	border: solid green 4px;}
+	background-color: pink; 
+	border: solid green 5px;}
 
 .row{ height:150px;}
 
-div{border:dotted 3px;
-   background:yellow}
+.item1 {
+  border: dotted  2px;
+  background-color: #008081;
+  }
+.item2 {
+  border: dotted  2px;
+  background-color: #d7bfd7;
+  
+}
+.item3 {
+  border: dotted  2px;
+  background-color: #fe6347;
+  
+}
+.item4 {
+    border: dotted  2px;
+
+  background-color: #3fe0d0;
+  
+}
+.item5 {
+    border: dotted  2px;
+
+  background-color: #ee82ef;
+  
+}
+.item6 {
+    border: dotted  2px;
+
+  background-color: #9acd32;
+  
+}

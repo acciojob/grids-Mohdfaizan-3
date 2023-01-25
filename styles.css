@@ -7,7 +7,10 @@
 
 .row{ height:150px;}
 
-.item1 {
+ .row div {
+	border: dotted  2px; 
+ }
+/* .item1 {
   border: dotted  2px;
   background-color: #008081;
   }
@@ -38,4 +41,4 @@
 
   background-color: #9acd32;
   
-}
+} */
